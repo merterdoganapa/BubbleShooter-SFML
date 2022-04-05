@@ -1,0 +1,49 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PuzzleBobble.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Oyun.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(32,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(32,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(33,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(33,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(78,118): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(78,99): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(78,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(85,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(257,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(261,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(297,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(324,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(326,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(337,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(400,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(511,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mert_\Desktop\Oyun Programlama\Projects\PuzzleBobble\Oyun.cpp(513,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PuzzleBobble.vcxproj -> C:\Users\Mert_\Desktop\Oyun Programlama\bin\PuzzleBubble.exe
